@@ -1,0 +1,24 @@
+{
+  "name": "cli-tools",
+  "version": "0.1.0",
+  "description": "Useful console tools",
+  "main": "bin/tools",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chajr/cli-tools.git"
+  },
+  "keywords": [
+    "node",
+    "cli",
+    "tools"
+  ],
+  "author": "Michał Adamiak",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chajr/cli-tools/issues"
+  },
+  "homepage": "https://github.com/chajr/cli-tools#readme"
+}
