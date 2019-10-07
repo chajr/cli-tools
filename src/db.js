@@ -7,7 +7,7 @@ db.defaults({todos: []}).write();
 
 const Todo = db.get("todos");
 
-module.export = {
+module.exports = {
     db,
     Todo
 };
